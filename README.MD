@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is an implementation for the paper **"Motion artifact correction by applying a novel unsupervised network for arterial phase imaging of gadoxetic acid-enhanced liver MRI examinations" **, a simple and efficient framework for unsupervised image restoration, which is injected into the general domain transfer architecture. More details could be found in the original paper.
+This is an implementation for the paper **"Motion artifact correction by applying a novel unsupervised network for arterial phase imaging of gadoxetic acid-enhanced liver MRI examinations"**, a simple and efficient framework for unsupervised MRI motion correction, which is injected into the general domain transfer architecture. More details could be found in the original paper.
  
 ## Prerequisites
 
